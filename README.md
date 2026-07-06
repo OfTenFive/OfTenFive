@@ -3,7 +3,7 @@
 - 🔭 Currently pursuing a joint degree in Engineering and Management of Space Systems at Gdańsk University of Technology and HSB Hochschule Bremen.
 - 🖧  Completed Cisco Networking Academy Coursework (CCNAv7) as part of B.Sc. in Teleinformatics at Poznan University of Technology.
 - 🖥️ I've been coding in kotlin, python, C++.
-- 🌱 I’m currently honing my skills in python.
+- 🌱 I’m currently honing my skills in python AI/ML.
 
 
 
